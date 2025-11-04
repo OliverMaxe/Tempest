@@ -1,0 +1,5 @@
+\n# Node\nnode_modules/\n.npmrc\n
+# Build outputs\nout/\ndist/\ncoverage/\n.artifacts/\nartifacts/\ncache/\n.fhevmTemp/\nfhevmTemp/\n
+# Env\n.env\n.env.*\n
+# OS\n.DS_Store\n
+# Hardhat deploy artifacts\ndeployments/\n
